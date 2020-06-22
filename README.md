@@ -1,2 +1,6 @@
 # FreeRTOS
 AssessmentTask_FreeRTOS_V10_2_1
+
+这是V10.2.1版本FreeRTOS的源文件，里面包含了使用FreeRTOS所需的各种功能文件和头文件。
+
+主要作用是为AssessmentTask工程提供FreeRTOS支持。
